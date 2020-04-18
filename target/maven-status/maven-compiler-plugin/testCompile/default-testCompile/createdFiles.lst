@@ -1,0 +1,4 @@
+page\OrangeHRMHomePage.class
+starter\CucumberTestSuite.class
+page\HomePage.class
+starter\stepdefinition\LoginToApplication.class
