@@ -15,7 +15,7 @@ public class OrangeHRMHomePage extends PageObject{
 	}
 
 	public void clickLogin() {
-		$(By.xpath("/html/body/div/div/div[2]")).isDisplayed(); //JAJAJ sas pendejin}
+		$(By.xpath("/html/body/div/div/div[2]")).isDisplayed(); }
 		
 	}
 }
